@@ -1,4 +1,4 @@
-# Keras and convloutional networks intro
+# Keras and convolutional networks intro
 
 Notebook for a guest seminar I held in Gyorgy Ottucsak's Data science course at BME.
 
